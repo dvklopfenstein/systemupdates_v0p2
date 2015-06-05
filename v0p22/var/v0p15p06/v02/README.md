@@ -2,27 +2,27 @@
 
 ## Six Activites Today!
 
-### [School Tour](#School_Tour)
+### 1. [Vilnius Jesuit School Tour](#School_Tour)
 ![Student Art](20150602_103552.jpg)
 
-### [Camp Tour](#Camp_Tour)
+### 2. [Vilnius Jesuit Camp Tour](#Camp_Tour)
 ![Camp](20150602_142915.jpg)
 
-### [Kernaves archeologine vietove](#Kernaves)
+### 3. [Kernaves archeologine vietove](#Kernaves)
 ![Hike](20150602_161833.jpg)
 
-### [Betliejaus sesutes](#Sisters)
+### 4. [Betliejaus sesutes](#Sisters)
 ![Little Sisters Chapel](20150602_171832.jpg)
 
-### [Vincentius Card. Sladkevicius](#Rosary)
+### 5. [Vincentius Card. Sladkevicius](#Rosary)
 ![Rosary Chapel](20150602_204504.jpg)
 
-### [Dinner at the Lake](#Dinner)
+### 6. [Dinner at the Lake](#Dinner)
 ![Dinner](20150602_212526.jpg)
 
 
 
-## All Photos
+## All Photos for the Whole Day
 
 <a name="School_Tour"></a>
 ### School Tour    
