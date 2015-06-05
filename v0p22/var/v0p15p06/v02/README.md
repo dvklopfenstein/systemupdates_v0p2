@@ -1,6 +1,6 @@
 # Tuesday, June 2, 2015
 
-## School Tour
+## [School Tour](README_details.md#School_Tour)
 ![Student Art](20150602_103552.jpg)
 
 ## Camp Tour
@@ -17,4 +17,6 @@
 
 ## Dinner at the Lake
 ![Dinner](20150602_212526.jpg)
+
+Copyright (C) 2015 DV Klopfenstein. All rights reserved.
 
