@@ -19,6 +19,7 @@
 ![Dinner](20150602_212526.jpg)
 
 
+# All Photos
 <a name="School_Tour"></a>
 [Back to Top](#top)
 ![20150602_102143](./20150602_102143.jpg)
