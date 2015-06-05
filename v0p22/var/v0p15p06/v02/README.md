@@ -22,7 +22,7 @@
 
 
 
-## All Photos for the Whole Day
+## Photos for the Whole Day
 
 <a name="School_Tour"></a>
 ### 1. Vilnius Jesuit School Tour    
