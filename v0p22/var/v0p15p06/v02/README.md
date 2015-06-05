@@ -1,29 +1,31 @@
 # Tuesday, June 2, 2015<a name="top"></a>
 
-## [School Tour](#School_Tour)
+## Six Activites Today!
+
+### [School Tour](#School_Tour)
 ![Student Art](20150602_103552.jpg)
 
-## [Camp Tour](#Camp_Tour)
+### [Camp Tour](#Camp_Tour)
 ![Camp](20150602_142915.jpg)
 
-## [Kernaves archeologine vietove](#Kernaves)
+### [Kernaves archeologine vietove](#Kernaves)
 ![Hike](20150602_161833.jpg)
 
-## [Betliejaus sesutes](#Sisters)
+### [Betliejaus sesutes](#Sisters)
 ![Little Sisters Chapel](20150602_171832.jpg)
 
-## [Vincentius Card. Sladkevicius](#Rosary)
+### [Vincentius Card. Sladkevicius](#Rosary)
 ![Rosary Chapel](20150602_204504.jpg)
 
-## [Dinner at the Lake](#Dinner)
+### [Dinner at the Lake](#Dinner)
 ![Dinner](20150602_212526.jpg)
 
 
 
-# All Photos
+## All Photos
 
 <a name="School_Tour"></a>
-## School Tour    
+### School Tour    
 [Back to Top](#top)
 ![20150602_102143](./20150602_102143.jpg)
 ![20150602_102147](./20150602_102147.jpg)
@@ -54,7 +56,7 @@
 ![20150602_111155](./20150602_111155.jpg)
 
 <a name="Camp_Tour"></a>
-## Camp Tour    
+### Camp Tour    
 [Back to Top](#top)
 ![20150602_135938](./20150602_135938.jpg)
 ![20150602_135945](./20150602_135945.jpg)
@@ -99,7 +101,7 @@
 ![20150602_143135](./20150602_143135.jpg)
 
 <a name="Kernaves"></a>
-## Kernaves archeologine vietove    
+### Kernaves archeologine vietove    
 [Back to Top](#top)
 ![20150602_153826](./20150602_153826.jpg)
 ![20150602_153837](./20150602_153837.jpg)
@@ -201,7 +203,7 @@
 ![20150602_163109](./20150602_163109.jpg)
 
 <a name="Sisters"></a>
-## Betliejaus sesutes    
+### Betliejaus sesutes    
 [Back to Top](#top)
 ![20150602_171827](./20150602_171827.jpg)
 ![20150602_171832](./20150602_171832.jpg)
@@ -216,7 +218,7 @@
 ![20150602_190139](./20150602_190139.jpg)
 
 <a name="Rosary"></a>
-## Rosary Monument    
+### Rosary Monument    
 [Back to Top](#top)
 ![20150602_204504](./20150602_204504.jpg)
 ![20150602_204545](./20150602_204545.jpg)
@@ -228,7 +230,7 @@
 ![20150602_205135](./20150602_205135.jpg)
 
 <a name="Dinner"></a>
-## Dinner    
+### Dinner    
 [Back to Top](#top)
 ![20150602_212207](./20150602_212207.jpg)
 ![20150602_212246](./20150602_212246.jpg)
