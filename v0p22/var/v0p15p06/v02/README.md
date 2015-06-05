@@ -25,7 +25,7 @@
 ## All Photos for the Whole Day
 
 <a name="School_Tour"></a>
-### School Tour    
+### 1. Vilnius Jesuit School Tour    
 [Back to Top](#top)
 ![20150602_102143](./20150602_102143.jpg)
 ![20150602_102147](./20150602_102147.jpg)
@@ -56,7 +56,7 @@
 ![20150602_111155](./20150602_111155.jpg)
 
 <a name="Camp_Tour"></a>
-### Camp Tour    
+### 2. Vilnius Jesuit Camp Tour    
 [Back to Top](#top)
 ![20150602_135938](./20150602_135938.jpg)
 ![20150602_135945](./20150602_135945.jpg)
@@ -101,7 +101,7 @@
 ![20150602_143135](./20150602_143135.jpg)
 
 <a name="Kernaves"></a>
-### Kernaves archeologine vietove    
+### 3. Kernaves archeologine vietove    
 [Back to Top](#top)
 ![20150602_153826](./20150602_153826.jpg)
 ![20150602_153837](./20150602_153837.jpg)
@@ -203,7 +203,7 @@
 ![20150602_163109](./20150602_163109.jpg)
 
 <a name="Sisters"></a>
-### Betliejaus sesutes    
+### 4. Betliejaus sesutes    
 [Back to Top](#top)
 ![20150602_171827](./20150602_171827.jpg)
 ![20150602_171832](./20150602_171832.jpg)
@@ -218,7 +218,7 @@
 ![20150602_190139](./20150602_190139.jpg)
 
 <a name="Rosary"></a>
-### Rosary Monument    
+### 5. Rosary Monument    
 [Back to Top](#top)
 ![20150602_204504](./20150602_204504.jpg)
 ![20150602_204545](./20150602_204545.jpg)
@@ -230,7 +230,7 @@
 ![20150602_205135](./20150602_205135.jpg)
 
 <a name="Dinner"></a>
-### Dinner    
+### 6. Dinner    
 [Back to Top](#top)
 ![20150602_212207](./20150602_212207.jpg)
 ![20150602_212246](./20150602_212246.jpg)
