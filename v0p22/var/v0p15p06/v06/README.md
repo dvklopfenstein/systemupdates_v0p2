@@ -1,67 +1,62 @@
 # Saturday, June 6, 2015<a name="top"></a>
 
-## Six Activites Today!
+## Saturday!!!
 
-Gintare
+### 1. [Ferry from Klaipeda](#ferry)
+![ferry](20150606_120814.jpg)
 
-### 1. [Vilnius TV Tower](#tvtower)
-![Student Art](20150602_103552.jpg)
+### 2. [Dunes](#dunes)
+![dunes](20150606_131654.jpg)
 
-### 2. [Vilnios Slenis](#slenis)
-![Camp](20150602_142915.jpg)
+### 3. [Lunch at Kursis](#lunch)
+![lunch](20150606_145731.jpg)
 
-### 3. [Puckoriu Apylinkes](#oldmill)
-![Hike](20150602_161833.jpg)
+### 4. [Nidos Svc. Mergeles Marijos Krikscioniu Pagalbos baznycia](#Church)    
+Holy Mother Mary's Christian Charity Church    
+![Church](20150606_151134.jpg)
 
-### 4. [View of Vilnius](#view)
-![Little view Chapel](20150602_171832.jpg)
+### 5. [Sundial Calandar](#sundial)    
+![sundial](20150606_165116.jpg)
 
-### 5. [Evening in Vilnius](#eve)
-![eve Chapel](20150602_204504.jpg)
+### 6. [Parnidzio Krastovaizdzio Draustinis](#reserve)    
+The Parnidis Landscape Reserve    
+...With views of Russia        
+![reserve](20150606_165643.jpg)
 
+### 7. [Snacks by the Baltic Lagoon](#snacks)    
+![snacks](20150606_175156.jpg)
 
-
-## Photos for the Whole Day
-
-<a name="tvtower"></a>
-### 1. Vilnius TV Tower    
-[Back to Top](#top)
-
-<a name="slenis"></a>
-### 2. Vilnios Slenis    
-[Back to Top](#top)
-
-<a name="oldmill"></a>
-### 3. Puckoriu Apylinkes    
-[Back to Top](#top)
-
-<a name="view"></a>
-### 4. View of Vilnius    
-[Back to Top](#top)
-
-<a name="eve"></a>
-### 5. Evening in Vilnius
-[Back to Top](#top)
-
-
+### 1. Ferry from Klaipeda
+[Back to June 6 Contents](README.md#ferry)
+![20150606_141307](./20150606_141307.jpg)
 ![20150606_120634](./20150606_120634.jpg)
 ![20150606_120642](./20150606_120642.jpg)
 ![20150606_120724](./20150606_120724.jpg)
 ![20150606_120810](./20150606_120810.jpg)
 ![20150606_120814](./20150606_120814.jpg)
 ![20150606_120835](./20150606_120835.jpg)
+
+### 2. Dunes
+[Back to June 6 Contents](README.md#dunes)
+Looking out at the Curonian Lagoon
 ![20150606_131643](./20150606_131643.jpg)
+Looking 180 degrees the other way to see the Baltic Sea
 ![20150606_131654](./20150606_131654.jpg)
 ![20150606_131711](./20150606_131711.jpg)
 ![20150606_131732](./20150606_131732.jpg)
 ![20150606_131738](./20150606_131738.jpg)
 ![20150606_132456](./20150606_132456.jpg)
+
+### 3. Lunch at Kursis
+[Back to June 6 Contents](README.md#lunch)
 ![20150606_141022](./20150606_141022.jpg)
-![20150606_141307](./20150606_141307.jpg)
 ![20150606_143005](./20150606_143005.jpg)
 ![20150606_143040](./20150606_143040.jpg)
 ![20150606_143052](./20150606_143052.jpg)
 ![20150606_145731](./20150606_145731.jpg)
+
+### 4. Nidos Svc. Mergeles Marijos Krikscioniu Pagalbos baznycia
+[Back to June 6 Contents](README.md#Church)
 ![20150606_152959](./20150606_152959.jpg)
 ![20150606_153134](./20150606_153134.jpg)
 ![20150606_153147](./20150606_153147.jpg)
@@ -77,6 +72,9 @@ Gintare
 ![20150606_154911](./20150606_154911.jpg)
 ![20150606_155749](./20150606_155749.jpg)
 ![20150606_155958](./20150606_155958.jpg)
+
+### 5. Sundial Calandar
+[Back to June 6 Contents](README.md#sundial)
 ![20150606_164324](./20150606_164324.jpg)
 ![20150606_164454](./20150606_164454.jpg)
 ![20150606_164458](./20150606_164458.jpg)
@@ -87,6 +85,11 @@ Gintare
 ![20150606_164854](./20150606_164854.jpg)
 ![20150606_164948](./20150606_164948.jpg)
 ![20150606_165116](./20150606_165116.jpg)
+![20150606_165719](./20150606_165719.jpg)
+![20150606_165738](./20150606_165738.jpg)
+
+### 6. Parnidzio Krastovaizdzio Draustinis
+[Back to June 6 Contents](README.md#reserve)
 ![20150606_165159](./20150606_165159.jpg)
 ![20150606_165437](./20150606_165437.jpg)
 ![20150606_165445](./20150606_165445.jpg)
@@ -94,17 +97,19 @@ Gintare
 ![20150606_165512](./20150606_165512.jpg)
 ![20150606_165631](./20150606_165631.jpg)
 ![20150606_165643](./20150606_165643.jpg)
-![20150606_165719](./20150606_165719.jpg)
-![20150606_165738](./20150606_165738.jpg)
-![20150606_172820_001](./20150606_172820_001.jpg)
-![20150606_172831](./20150606_172831.jpg)
-![20150606_175143](./20150606_175143.jpg)
+
+### 7. Snacks by the Baltic Lagoon
+[Back to June 6 Contents](README.md#snacks)
 ![20150606_175156](./20150606_175156.jpg)
+![20150606_175143](./20150606_175143.jpg)
+![20150606_172831](./20150606_172831.jpg)
+![20150606_172820_001](./20150606_172820_001.jpg)
 ![20150606_183617](./20150606_183617.jpg)
 ![20150606_183651](./20150606_183651.jpg)
 ![20150606_183655](./20150606_183655.jpg)
 ![20150606_183700](./20150606_183700.jpg)
 
+Gintare
 
 Copyright (C) 2015 DV Klopfenstein. All rights reserved.
 
