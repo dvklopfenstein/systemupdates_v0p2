@@ -1,7 +1,7 @@
 # Monday, June 1, 2015
 
 ### 4. View of Vilnius    
-[Back to June 1 Contents](README.md)
+[Back to June 1 Contents](README.md#view)
 ![20150601_182337](./20150601_182337.jpg)
 ![20150601_182514](./20150601_182514.jpg)
 ![20150601_182523](./20150601_182523.jpg)

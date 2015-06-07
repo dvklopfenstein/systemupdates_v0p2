@@ -1,7 +1,7 @@
 # Monday, June 1, 2015
 
 ### 1. Vilnius TV Tower    
-[Back to Top](README.md)
+[Back to June 1 Contents](README.md#tvtower)
 ![20150601_140048](./20150601_140048.jpg)
 ![20150601_140058](./20150601_140058.jpg)
 ![20150601_140126](./20150601_140126.jpg)

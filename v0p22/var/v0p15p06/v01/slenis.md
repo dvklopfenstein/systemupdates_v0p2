@@ -1,7 +1,7 @@
 # Monday, June 1, 2015
 
 ### 2. Vilnios Slenis    
-[Back to Contents](README.md)
+[Back to June 1 Contents](README.md#slenis)
 ![20150601_164000](./20150601_164000.jpg)
 ![20150601_164703](./20150601_164703.jpg)
 ![20150601_164711](./20150601_164711.jpg)

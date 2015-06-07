@@ -1,7 +1,7 @@
 # Monday, June 1, 2015
 
 ### 3. Puckoriu Apylinkes    
-[Back to June 1 Contents](README.md)
+[Back to June 1 Contents](README.md#oldmill)
 ![20150601_170329](./20150601_170329.jpg)
 ![20150601_165552](./20150601_165552.jpg)
 ![20150601_165702](./20150601_165702.jpg)
