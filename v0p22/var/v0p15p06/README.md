@@ -4,12 +4,12 @@
 * [Mon, June 1, 2015](#01)
 * [Tue, June 2, 2015](#02)
 * Wed, June 3, 2015
-* Thu, June 4, 2015
-* Fri, June 5, 2015
+* [Thu-Fri, June 4, 2015](#05)
 * [Sat, June 6, 2015](#06)
 
 
-## Vilnius on Monday!<a name="01"></a>
+<a name="01"></a>
+## Vilnius on Monday!
 
 ### 1. [Vilnius TV Tower](./v01/tvtower.md)<a name="tvtower"></a>
 ![20150601_140058](./v01/20150601_140058.jpg)
@@ -27,7 +27,8 @@
 ![20150601_201633](./v01/20150601_201633.jpg)
 
 
-## Tuesday; What a Day!<a name="02"></a>
+<a name="02"></a>
+## Tuesday; What a Day!
 
 ### 1. [Vilnius Jesuit School Tour](./v02/School_Tour.md)
 ![Student Art](./v02/20150602_103552.jpg)
@@ -48,6 +49,26 @@
 ![Dinner](./v02/20150602_212526.jpg)
 
 
+<a name="05"></a>
+## Thursday-Friday, June 4-5, 2015
+[**Palangos**](./v05/README.md)
+
+<a name="housing"></a>
+### [Karaliaus Mindaugo](housing.md)
+![Guest house/classroom/office](20150604_132709.jpg)
+![guest room](20150604_132945.jpg)
+
+<a name="amber"></a>
+### [Amber Museum](amber.md)
+![amber](20150605_142140.jpg)
+
+<a name="snack"></a>
+### 5. [Snack](snack.md)
+![snack](20150605_154127.jpg)
+
+
+
+<a name="06"></a>
 ## Saturday at Nida!
 
 ### 1. [Ferry from Klaipeda](./v06/ferry.md)
