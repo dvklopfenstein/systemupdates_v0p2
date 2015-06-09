@@ -55,16 +55,16 @@
 
 <a name="housing"></a>
 ### [Karaliaus Mindaugo](housing.md)
-![Guest house/classroom/office](20150604_132709.jpg)
-![guest room](20150604_132945.jpg)
+![Guest house/classroom/office](./v05/20150604_132709.jpg)
+![guest room](./v05/20150604_132945.jpg)
 
 <a name="amber"></a>
 ### [Amber Museum](amber.md)
-![amber](20150605_142140.jpg)
+![amber](./v05/20150605_142140.jpg)
 
 <a name="snack"></a>
 ### 5. [Snack](snack.md)
-![snack](20150605_154127.jpg)
+![snack](./v05/20150605_154127.jpg)
 
 
 
@@ -82,7 +82,7 @@
 
 ### 4. [Nidos Svc. Mergeles Marijos Krikscioniu Pagalbos baznycia](./v06/Church.md)    
 Holy Mother Mary's Christian Charity Church    
-![Church](./v06/20150606_151134.jpg)
+![Church](./v06/20150606_153134.jpg)
 
 ### 5. [Sundial Calandar](./v06/sundial.md)    
 ![sundial](./v06/20150606_165116.jpg)
