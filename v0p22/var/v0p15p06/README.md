@@ -1,4 +1,4 @@
-# Lithunia!
+# Lithuania!
 
 ## Day-by-Day<a name="day"></a>
 * [Mon, June 1, 2015](#01)
@@ -12,6 +12,7 @@
 ## Vilnius on Monday!
 
 ### 1. [Vilnius TV Tower](./v01/tvtower.md)<a name="tvtower"></a>
+14 people died here fighting for Lithuania's freedom from Russia.    
 ![20150601_140058](./v01/20150601_140058.jpg)
 
 ### 2. [Vilnios Slenis](./v01/slenis.md)<a name="slenis"></a>
