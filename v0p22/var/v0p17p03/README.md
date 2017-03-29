@@ -28,7 +28,7 @@
 |D-TX|202-225-3236|[Joaquin Castro](https://castro.house.gov/contact/offices)
 |D-WA|202-225-9740|[Denny Heck](https://dennyheck.house.gov/contact/offices)
 
-Nunes, Ros-Lehtinen
+Nunes
 Himes
 
 ## Freedom Caucus
