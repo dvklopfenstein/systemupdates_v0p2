@@ -17,7 +17,6 @@
 |R-OH|202-225-3164|[Brad Wenstrup](http://wenstrup.house.gov/contact/officelocations.htm)
 |R-UT|202-225-9730|[Chris Stewart](https://stewart.house.gov/contact/offices)
 |R-NY|202-225-4611|[Elise Stefanik](https://stefanik.house.gov/contact/offices)
-
 |D-CA|202-225-4176|[**Adam Schiff**](http://schiff.house.gov/contact)
 |D-CT|866-453-0028|[Jim Himes](https://himes.house.gov/contact-me/my-offices)
 |D-AL|202-225-2665|[Terri Sewell](https://sewell.house.gov/contact/email-me)
