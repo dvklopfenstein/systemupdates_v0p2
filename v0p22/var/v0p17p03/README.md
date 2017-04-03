@@ -30,6 +30,18 @@
 Nunes
 Himes
 
+## Senate Ds undecided on Gorsuch
+
+|Loc | Phone      |YN|Representatives                                             
+|----|------------|--|---------------------------------------------------------    
+|D-MD|202-224-4524|  |[Ben Cardin](https://www.cardin.senate.gov/contact/regional-offices)    
+|D-NJ|202-224.4744|  |[Bob Menendez](https://www.menendez.senate.gov/contact/)    
+|D-DE|202-224-5042|? |[Chris Coons](https://www.coons.senate.gov/contact)    
+|D-VA|202-224-2023|NO|[Mark Warner](http://www.warner.senate.gov/public/index.cfm/officeinformation)    
+|D-CO|202-224-5852|  |[Michael Bennet](https://www.bennet.senate.gov/?p=contact)    
+|D-VT|202-224-4242|NO|[Patrick Leahy](https://www.leahy.senate.gov/contact)    
+|D-ME|202-224-5344|  |[Angus King](https://www.king.senate.gov/contact)    
+
 ## Freedom Caucus
 
 |Loc |Name
